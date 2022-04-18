@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory android:title="Appearance">
+
+        <ListPreference
+            android:defaultValue="0"
+            android:dialogTitle="@string/choose_theme"
+            android:entries="@array/theme_options"
+            android:entryValues="@array/theme_values"
+            android:key="@string/key_theme"
+            android:summary="@string/select_theme"
+            android:title="@string/theme_personalization" />
+
+        <ListPreference
+            android:defaultValue="0"
+            android:dialogTitle="@string/choose_text_size"
+            android:entries="@array/text_options"
+            android:entryValues="@array/text_values"
+            android:key="@string/key_text"
+            android:summary="@string/select_text_size"
+            android:title="@string/text_size" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="Notifications">
+
+        <SwitchPreference
+            android:defaultValue="false"
+            android:key="@string/key_push"
+            android:title="@string/push_notifs" />
+
+        <SwitchPreference
+            android:defaultValue="false"
+            android:key="@string/key_sms"
+            android:title="@string/sms_notifs" />
+
+        <SwitchPreference
+            android:defaultValue="false"
+            android:key="@string/key_email"
+            android:title="@string/email_notifs" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="Contact Us">
+
+        <EditTextPreference
+            android:defaultValue="@string/describe_issue"
+            android:key="@string/key_issue"
+            android:summary="@string/submit_issue"
+            android:title="@string/report_issue" />
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

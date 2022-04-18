@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "/Users/ruirui/Downloads/Homepage-5-2/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_settings.xml",
+        "source": "/Users/ruirui/Downloads/Homepage-5-2/app/src/main/res/layout/activity_settings.xml"
+    },
+    {
+        "merged": "/Users/ruirui/Downloads/Homepage-5-2/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_1.xml",
+        "source": "/Users/ruirui/Downloads/Homepage-5-2/app/src/main/res/layout/activity_1.xml"
+    },
+    {
+        "merged": "/Users/ruirui/Downloads/Homepage-5-2/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/content_main.xml",
+        "source": "/Users/ruirui/Downloads/Homepage-5-2/app/src/main/res/layout/content_main.xml"
+    },
+    {
+        "merged": "/Users/ruirui/Downloads/Homepage-5-2/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_dashboard.xml",
+        "source": "/Users/ruirui/Downloads/Homepage-5-2/app/src/main/res/layout/fragment_dashboard.xml"
+    },
+    {
+        "merged": "/Users/ruirui/Downloads/Homepage-5-2/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_register.xml",
+        "source": "/Users/ruirui/Downloads/Homepage-5-2/app/src/main/res/layout/activity_register.xml"
+    },
+    {
+        "merged": "/Users/ruirui/Downloads/Homepage-5-2/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/nav_header_main.xml",
+        "source": "/Users/ruirui/Downloads/Homepage-5-2/app/src/main/res/layout/nav_header_main.xml"
+    },
+    {
+        "merged": "/Users/ruirui/Downloads/Homepage-5-2/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_home.xml",
+        "source": "/Users/ruirui/Downloads/Homepage-5-2/app/src/main/res/layout/activity_home.xml"
+    },
+    {
+        "merged": "/Users/ruirui/Downloads/Homepage-5-2/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_login.xml",
+        "source": "/Users/ruirui/Downloads/Homepage-5-2/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/ruirui/Downloads/Homepage-5-2/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_splash_screen.xml",
+        "source": "/Users/ruirui/Downloads/Homepage-5-2/app/src/main/res/layout/activity_splash_screen.xml"
+    },
+    {
+        "merged": "/Users/ruirui/Downloads/Homepage-5-2/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/app_bar_main.xml",
+        "source": "/Users/ruirui/Downloads/Homepage-5-2/app/src/main/res/layout/app_bar_main.xml"
+    },
+    {
+        "merged": "/Users/ruirui/Downloads/Homepage-5-2/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_second.xml",
+        "source": "/Users/ruirui/Downloads/Homepage-5-2/app/src/main/res/layout/activity_second.xml"
+    },
+    {
+        "merged": "/Users/ruirui/Downloads/Homepage-5-2/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_search.xml",
+        "source": "/Users/ruirui/Downloads/Homepage-5-2/app/src/main/res/layout/fragment_search.xml"
+    },
+    {
+        "merged": "/Users/ruirui/Downloads/Homepage-5-2/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_logout.xml",
+        "source": "/Users/ruirui/Downloads/Homepage-5-2/app/src/main/res/layout/fragment_logout.xml"
+    },
+    {
+        "merged": "/Users/ruirui/Downloads/Homepage-5-2/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_logout.xml",
+        "source": "/Users/ruirui/Downloads/Homepage-5-2/app/src/main/res/layout/activity_logout.xml"
+    },
+    {
+        "merged": "/Users/ruirui/Downloads/Homepage-5-2/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/Users/ruirui/Downloads/Homepage-5-2/app/src/main/res/layout/activity_main.xml"
+    }
+]

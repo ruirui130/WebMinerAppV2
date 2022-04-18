@@ -1,0 +1,139 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.homepage"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->/Users/ruirui/Downloads/Homepage-5-2/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="31" />
+9-->/Users/ruirui/Downloads/Homepage-5-2/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/ruirui/Downloads/Homepage-5-2/app/src/main/AndroidManifest.xml:5:5-67
+11-->/Users/ruirui/Downloads/Homepage-5-2/app/src/main/AndroidManifest.xml:5:22-64
+12
+13    <application
+13-->/Users/ruirui/Downloads/Homepage-5-2/app/src/main/AndroidManifest.xml:7:5-55:19
+14        android:allowBackup="true"
+14-->/Users/ruirui/Downloads/Homepage-5-2/app/src/main/AndroidManifest.xml:8:9-35
+15        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+15-->[androidx.core:core:1.7.0] /Users/ruirui/.gradle/caches/transforms-3/b9e4376e452ce4f1a2bbb1fc4b534124/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+16        android:debuggable="true"
+17        android:icon="@mipmap/ic_launcher"
+17-->/Users/ruirui/Downloads/Homepage-5-2/app/src/main/AndroidManifest.xml:9:9-43
+18        android:label="@string/app_name"
+18-->/Users/ruirui/Downloads/Homepage-5-2/app/src/main/AndroidManifest.xml:10:9-41
+19        android:roundIcon="@mipmap/ic_launcher_round"
+19-->/Users/ruirui/Downloads/Homepage-5-2/app/src/main/AndroidManifest.xml:11:9-54
+20        android:supportsRtl="true"
+20-->/Users/ruirui/Downloads/Homepage-5-2/app/src/main/AndroidManifest.xml:12:9-35
+21        android:testOnly="true"
+22        android:theme="@style/Theme.Homepage" >
+22-->/Users/ruirui/Downloads/Homepage-5-2/app/src/main/AndroidManifest.xml:13:9-46
+23        <activity
+23-->/Users/ruirui/Downloads/Homepage-5-2/app/src/main/AndroidManifest.xml:14:9-16:40
+24            android:name="com.example.homepage.ui.logout.Logout"
+24-->/Users/ruirui/Downloads/Homepage-5-2/app/src/main/AndroidManifest.xml:15:13-45
+25            android:exported="false" />
+25-->/Users/ruirui/Downloads/Homepage-5-2/app/src/main/AndroidManifest.xml:16:13-37
+26        <activity
+26-->/Users/ruirui/Downloads/Homepage-5-2/app/src/main/AndroidManifest.xml:17:9-19:40
+27            android:name="com.example.homepage.Second_activity"
+27-->/Users/ruirui/Downloads/Homepage-5-2/app/src/main/AndroidManifest.xml:18:13-44
+28            android:exported="false" />
+28-->/Users/ruirui/Downloads/Homepage-5-2/app/src/main/AndroidManifest.xml:19:13-37
+29        <activity
+29-->/Users/ruirui/Downloads/Homepage-5-2/app/src/main/AndroidManifest.xml:20:9-22:40
+30            android:name="com.example.homepage.Activity1"
+30-->/Users/ruirui/Downloads/Homepage-5-2/app/src/main/AndroidManifest.xml:21:13-38
+31            android:exported="false" />
+31-->/Users/ruirui/Downloads/Homepage-5-2/app/src/main/AndroidManifest.xml:22:13-37
+32        <activity
+32-->/Users/ruirui/Downloads/Homepage-5-2/app/src/main/AndroidManifest.xml:23:9-26:63
+33            android:name="com.example.homepage.ui.settings.Settings"
+33-->/Users/ruirui/Downloads/Homepage-5-2/app/src/main/AndroidManifest.xml:24:13-49
+34            android:exported="false"
+34-->/Users/ruirui/Downloads/Homepage-5-2/app/src/main/AndroidManifest.xml:25:13-37
+35            android:label="@string/title_activity_settings" />
+35-->/Users/ruirui/Downloads/Homepage-5-2/app/src/main/AndroidManifest.xml:26:13-60
+36        <activity
+36-->/Users/ruirui/Downloads/Homepage-5-2/app/src/main/AndroidManifest.xml:27:9-29:40
+37            android:name="com.example.homepage.Home"
+37-->/Users/ruirui/Downloads/Homepage-5-2/app/src/main/AndroidManifest.xml:28:13-33
+38            android:exported="false" />
+38-->/Users/ruirui/Downloads/Homepage-5-2/app/src/main/AndroidManifest.xml:29:13-37
+39        <activity
+39-->/Users/ruirui/Downloads/Homepage-5-2/app/src/main/AndroidManifest.xml:30:9-32:40
+40            android:name="com.example.homepage.Login"
+40-->/Users/ruirui/Downloads/Homepage-5-2/app/src/main/AndroidManifest.xml:31:13-34
+41            android:exported="false" />
+41-->/Users/ruirui/Downloads/Homepage-5-2/app/src/main/AndroidManifest.xml:32:13-37
+42        <activity
+42-->/Users/ruirui/Downloads/Homepage-5-2/app/src/main/AndroidManifest.xml:33:9-35:40
+43            android:name="com.example.homepage.Register"
+43-->/Users/ruirui/Downloads/Homepage-5-2/app/src/main/AndroidManifest.xml:34:13-37
+44            android:exported="false" />
+44-->/Users/ruirui/Downloads/Homepage-5-2/app/src/main/AndroidManifest.xml:35:13-37
+45        <activity
+45-->/Users/ruirui/Downloads/Homepage-5-2/app/src/main/AndroidManifest.xml:36:9-46:20
+46            android:name="com.example.homepage.SplashScreen"
+46-->/Users/ruirui/Downloads/Homepage-5-2/app/src/main/AndroidManifest.xml:37:13-41
+47            android:exported="true"
+47-->/Users/ruirui/Downloads/Homepage-5-2/app/src/main/AndroidManifest.xml:38:13-36
+48            android:label="@string/app_name"
+48-->/Users/ruirui/Downloads/Homepage-5-2/app/src/main/AndroidManifest.xml:39:13-45
+49            android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
+49-->/Users/ruirui/Downloads/Homepage-5-2/app/src/main/AndroidManifest.xml:40:13-69
+50            <intent-filter>
+50-->/Users/ruirui/Downloads/Homepage-5-2/app/src/main/AndroidManifest.xml:41:13-45:29
+51                <action android:name="android.intent.action.MAIN" />
+51-->/Users/ruirui/Downloads/Homepage-5-2/app/src/main/AndroidManifest.xml:42:17-69
+51-->/Users/ruirui/Downloads/Homepage-5-2/app/src/main/AndroidManifest.xml:42:25-66
+52
+53                <category android:name="android.intent.category.LAUNCHER" />
+53-->/Users/ruirui/Downloads/Homepage-5-2/app/src/main/AndroidManifest.xml:44:17-77
+53-->/Users/ruirui/Downloads/Homepage-5-2/app/src/main/AndroidManifest.xml:44:27-74
+54            </intent-filter>
+55        </activity>
+56        <activity
+56-->/Users/ruirui/Downloads/Homepage-5-2/app/src/main/AndroidManifest.xml:47:9-50:65
+57            android:name="com.example.homepage.MainActivity"
+57-->/Users/ruirui/Downloads/Homepage-5-2/app/src/main/AndroidManifest.xml:48:13-41
+58            android:label="@string/app_name"
+58-->/Users/ruirui/Downloads/Homepage-5-2/app/src/main/AndroidManifest.xml:49:13-45
+59            android:theme="@style/Theme.Homepage.NoActionBar" />
+59-->/Users/ruirui/Downloads/Homepage-5-2/app/src/main/AndroidManifest.xml:50:13-62
+60
+61        <meta-data
+61-->/Users/ruirui/Downloads/Homepage-5-2/app/src/main/AndroidManifest.xml:52:9-54:57
+62            android:name="preloaded_fonts"
+62-->/Users/ruirui/Downloads/Homepage-5-2/app/src/main/AndroidManifest.xml:53:13-43
+63            android:resource="@array/preloaded_fonts" />
+63-->/Users/ruirui/Downloads/Homepage-5-2/app/src/main/AndroidManifest.xml:54:13-54
+64
+65        <provider
+65-->[androidx.emoji2:emoji2:1.0.0] /Users/ruirui/.gradle/caches/transforms-3/2c96a293c0a835e94af1ddc4d74ff22d/transformed/emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+66            android:name="androidx.startup.InitializationProvider"
+66-->[androidx.emoji2:emoji2:1.0.0] /Users/ruirui/.gradle/caches/transforms-3/2c96a293c0a835e94af1ddc4d74ff22d/transformed/emoji2-1.0.0/AndroidManifest.xml:27:13-67
+67            android:authorities="com.example.homepage.androidx-startup"
+67-->[androidx.emoji2:emoji2:1.0.0] /Users/ruirui/.gradle/caches/transforms-3/2c96a293c0a835e94af1ddc4d74ff22d/transformed/emoji2-1.0.0/AndroidManifest.xml:28:13-68
+68            android:exported="false" >
+68-->[androidx.emoji2:emoji2:1.0.0] /Users/ruirui/.gradle/caches/transforms-3/2c96a293c0a835e94af1ddc4d74ff22d/transformed/emoji2-1.0.0/AndroidManifest.xml:29:13-37
+69            <meta-data
+69-->[androidx.emoji2:emoji2:1.0.0] /Users/ruirui/.gradle/caches/transforms-3/2c96a293c0a835e94af1ddc4d74ff22d/transformed/emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+70                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+70-->[androidx.emoji2:emoji2:1.0.0] /Users/ruirui/.gradle/caches/transforms-3/2c96a293c0a835e94af1ddc4d74ff22d/transformed/emoji2-1.0.0/AndroidManifest.xml:32:17-75
+71                android:value="androidx.startup" />
+71-->[androidx.emoji2:emoji2:1.0.0] /Users/ruirui/.gradle/caches/transforms-3/2c96a293c0a835e94af1ddc4d74ff22d/transformed/emoji2-1.0.0/AndroidManifest.xml:33:17-49
+72            <meta-data
+72-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/ruirui/.gradle/caches/transforms-3/bdba8a1b7f77d959878d5a52670cf96f/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+73                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+73-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/ruirui/.gradle/caches/transforms-3/bdba8a1b7f77d959878d5a52670cf96f/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78
+74                android:value="androidx.startup" />
+74-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/ruirui/.gradle/caches/transforms-3/bdba8a1b7f77d959878d5a52670cf96f/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+75        </provider>
+76    </application>
+77
+78</manifest>
